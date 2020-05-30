@@ -1,0 +1,36 @@
+/*@font-face {
+font-family: “Montserrat”;
+src: url("…/fonts/Montserrat-Regular.ttf");
+src: url("…/fonts/Montserrat-Bold.ttf");
+}*/
+
+/*{
+    background-color: white;
+}*/
+
+.wrapper {
+    background-color: orange;
+}
+
+.name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    font-family: Montserrat;
+
+}
+.profession {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: Montserrat;
+}
+.description {
+    width: 413px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;}
